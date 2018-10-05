@@ -1,5 +1,5 @@
 {
-  "name": "ppserver",
+  "name": "nodeserver",
   "version": "1.0.0",
   "description": "plugin postive server",
   "main": "index.js",
